@@ -13,7 +13,7 @@
     <description>shamall-coupon</description>
     <properties>
         <java.version>8</java.version>
-        <spring-cloud.version>2022.0.2</spring-cloud.version>
+        <spring-cloud.version>2021.0.6</spring-cloud.version>
     </properties>
     <dependencies>
         <dependency>
@@ -23,6 +23,12 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.lmx</groupId>
+            <artifactId>shamall-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
         <dependency>

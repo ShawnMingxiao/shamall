@@ -21,6 +21,10 @@
         <module>shamall-product</module>
         <module>shamall-order</module>
         <module>shamall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>shamall-common</module>
+        <module>shamall-gateway</module>
     </modules>
 
 
